@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+I strive to uplift 🚀 and I am currently making my impact as a fullstack programmer at [Ombulabs](https://www.ombulabs.com/).
+
+### Join our team! 🎉
+
+OmbuLabs is hiring! We are looking for Mid to Senior Rails Engineers and a Senior React Engineer interested in joining a fully remote and collaborative team. Learn more at https://www.ombulabs.com/jobs #rails #ruby #remote #react #developer #rubyonrails
 
 <!--
 **buys-fran/buys-fran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
